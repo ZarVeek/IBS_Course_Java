@@ -1,0 +1,215 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Sber",
+      "address": "Москва, ул. Вавилова, д. 19",
+      "phoneNumber": "8 800 555-55-50",
+      "inn": "7707083893",
+      "founded": "01.05.1991",
+      "securities": [
+        {
+          "name": "Alfa",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code": "31875423456789098765432313133131",
+          "date": "18.09.2021"
+        },
+        {
+          "name": "Yandex",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code" : "54321",
+          "date": "12.12.2020"
+        },
+        {
+          "name" : "Microsoft",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code" : "987654321",
+          "date": "12.01.2025"
+        },
+        {
+          "name": "Sber",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code": "878656541",
+          "date": "25.12.2030"
+        },
+        {
+          "name": "Mail Group",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code": "12345",
+          "date": "12.01.2014"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Yandex",
+      "address": "Москва, ул. Льва Толстого, д. 16",
+      "phoneNumber": "8 800 234-24-80",
+      "inn": "7736207543",
+      "founded": "27.09.1997",
+      "securities": [
+        {
+          "name": "Google",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code": "31313133131",
+          "date": "16.07.2021"
+        },
+        {
+          "name": "Yandex",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code" : "54321",
+          "date": "12.12.2020"
+        },
+        {
+          "name" : "Microsoft",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code" : "987654321",
+          "date": "12.01.2025"
+        },
+        {
+          "name": "Sber",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code": "878656541",
+          "date": "25.12.2030"
+        },
+        {
+          "name": "Tinkoff",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code": "982367184214",
+          "date": "16.07.2021"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mail Group",
+      "address": "Москва, Ленинградский проспект, д. 39",
+      "phoneNumber": "8 495 725-63-57",
+      "inn": "7714789489",
+      "founded": "15.04.1998",
+      "securities": [
+        {
+          "name": "Mail Group",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code": "12345",
+          "date": "12.01.2014"
+        },
+        {
+          "name": "Yandex",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code" : "54321",
+          "date": "12.12.2020"
+        },
+        {
+          "name" : "Microsoft",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code" : "987654321",
+          "date": "12.01.2025"
+        },
+        {
+          "name": "FaceBook",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code": "123456789",
+          "date": "12.01.2025"
+        },
+        {
+          "name": "Twitter",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code": "99999",
+          "date": "11.11.2021"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Microsoft",
+      "address": "Redmond, Washington 98052-6399",
+      "phoneNumber": "800 426-9400",
+      "founded": "04.04.1975",
+      "inn": "7736207543",
+      "securities": [
+        {
+          "name": "Apple",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code": "6767676767",
+          "date": "08.12.2020"
+        },
+        {
+          "name": "Yandex",
+          "currency": [
+            "RUB",
+            "USD"
+          ],
+          "code" : "54321",
+          "date": "12.12.2020"
+        },
+        {
+          "name" : "Microsoft",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code" : "987654321",
+          "date": "12.01.2025"
+        },
+        {
+          "name": "Bank of America",
+          "currency": [
+            "EU",
+            "USD"
+          ],
+          "code": "8181881818",
+          "date": "12.01.2019"
+        }
+      ]
+    }
+  ]
+}
